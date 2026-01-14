@@ -1,7 +1,8 @@
 class Solution {
     public boolean checkValidString(String s) {
-        int cntMin = 0;
-        int cntMax = 0;
+        // open parentheses count in range [cntMin, cntMax]
+        int cntMin = 0; //no of opening brackets
+        int cntMax = 0; //no of closing brackets
 
         for(char i: s.toCharArray()){
            
@@ -12,11 +13,11 @@ class Solution {
                 cntMin--;
                 cntMax--;
             }else if(i == '*'){
-                cntMax++; //'*' could be treated as a single left parenthesis ')' 
-                cntMin--; //'*' could be treated as a single right parenthesis ')' // if `*` become `` then nothing happens
+                cntMax++; // treat '*' as '('
+                cntMin--; // treat '*' as ')' become `` then nothing happens
             }
 
-            if(cntMax < 0)return false;
+            if(cntMax < 0)return false; //We have closed more brackets than we could ever open or invalid case
             if(cntMin < 0) cntMin = 0;
         }
         return cntMin == 0;
