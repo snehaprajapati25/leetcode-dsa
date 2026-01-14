@@ -1,6 +1,6 @@
 class Solution {
     public boolean checkValidString(String s) {
-        // open parentheses count in range [cntMin, cntMax]
+        
         int cntMin = 0; //no of opening brackets
         int cntMax = 0; //no of closing brackets
 
