@@ -1,13 +1,20 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> ans = new ArrayList<>();
-        HashSet<Integer>set = new HashSet<>();
 
-        for(int i: nums){
-            if(set.contains(i)){
-                ans.add(i);
+        // approach
+        // For each number x, go to index x - 1
+        // If value at that index is negative, x is a duplicate
+        // Otherwise, make it negative to mark visited
+
+        for(int i=0; i<nums.length; i++){
+            int idx = Math.abs(nums[i]) - 1;
+
+            if(nums[idx] < 0){
+                ans.add(idx + 1);
+            }else{
+                nums[idx] = -nums[idx];
             }
-            set.add(i);
         }
         return ans;
     }
