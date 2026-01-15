@@ -27,12 +27,15 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Stack
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
