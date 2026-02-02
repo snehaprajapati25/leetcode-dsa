@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
@@ -29,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Stack
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
