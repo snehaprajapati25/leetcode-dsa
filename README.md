@@ -45,4 +45,16 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
