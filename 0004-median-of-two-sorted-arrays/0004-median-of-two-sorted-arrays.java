@@ -65,4 +65,7 @@ class Solution {
        }
        return 0;
     }
+
+//The approach uses binary search on the smaller sorted array to partition both arrays into left and right halves such that all elements on the left side are less than or equal to those on the right side. Once the correct partition is found, the median is calculated using the maximum element of the left side and the minimum element of the right side, depending on whether the total number of elements is odd or even. This avoids merging the arrays and achieves O(log(min(n, m))) time complexity.
+
 }
