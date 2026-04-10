@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@
 | [0002-add-two-numbers](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
