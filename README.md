@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -29,10 +30,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
