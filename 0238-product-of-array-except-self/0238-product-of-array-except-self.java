@@ -14,7 +14,8 @@ class Solution {
             answer[i] = answer[i]*suffix;
             suffix *= nums[i];
         }
-
+        
+        //SC - O(1) excluding output array
         return answer;
     }
 }
