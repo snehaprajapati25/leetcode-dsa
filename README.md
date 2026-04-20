@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
@@ -32,6 +33,7 @@
 | [0070-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0213-house-robber-ii) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
