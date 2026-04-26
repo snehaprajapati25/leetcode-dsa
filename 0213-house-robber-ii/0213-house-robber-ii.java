@@ -1,27 +1,24 @@
 class Solution {
-    public int maxNonAdjacentSum(int[] nums,int start, int end){
-        int prev = nums[start];
+    public int rob(int[] nums) {
+        int n = nums.length;
+        if(n == 1)return nums[0];
+        return Math.max(maxSum(nums, 0, n-1) , maxSum(nums, 1, n));
+    }
+
+    public int maxSum(int[] nums, int si, int ei){
+        int curSum = 0;
+        int prev = nums[si];
         int prev2 = 0;
 
-        for(int i=start+1; i<end; i++){
-            int take = nums[i];
-
-            if(i>1){
-                take += prev2;
-            }
-
+        for(int i=si+1; i<ei; i++){
+            int take = nums[i] + prev2;
             int notTake = 0 + prev;
 
-            int curi = Math.max(take, notTake);
+            curSum = Math.max(take, notTake);
             prev2 = prev;
-            prev = curi;
+            prev = curSum;
         }
 
         return prev;
-    }
-
-    public int rob(int[] nums) {
-       if(nums.length == 1)return nums[0];
-       return Math.max(maxNonAdjacentSum(nums, 0, nums.length-1), maxNonAdjacentSum(nums, 1, nums.length));
     }
 }
