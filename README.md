@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0217-contains-duplicate) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,12 +44,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
@@ -114,4 +118,8 @@
 | [0238-product-of-array-except-self](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
