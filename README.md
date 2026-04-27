@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
@@ -111,5 +112,6 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
