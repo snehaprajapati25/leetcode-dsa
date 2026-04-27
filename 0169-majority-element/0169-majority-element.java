@@ -1,14 +1,23 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        HashMap<Integer,Integer>map = new HashMap<>();
+       //“Majority element = the one that survives all pair cancellations”
+       //votes = majority element (increase)
+       //votes = other elements (decrease)
 
-        for(int i: nums){
-            map.put(i, map.getOrDefault(i, 0)+1);
+       int majority = 0;
+       int vote = 0;
 
-            if(map.get(i)>nums.length/2){
-                return i;
-            }
+       for(int i: nums){
+        if(vote == 0){
+            majority = i;
         }
-        return -1;
+
+        if(i == majority){
+            vote++;
+        }else{
+            vote--;
+        }
+       }
+       return majority;
     }
 }
