@@ -1,4 +1,5 @@
 class Solution {
+    //memoization
     public int uniquePaths(int m, int n) {
         int dp[][] = new int[m][n];
 
