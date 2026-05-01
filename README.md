@@ -24,6 +24,7 @@
 | [0238-product-of-array-except-self](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -55,6 +56,7 @@
 | [0169-majority-element](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
