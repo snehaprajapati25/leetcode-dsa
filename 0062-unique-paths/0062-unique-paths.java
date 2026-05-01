@@ -1,24 +1,27 @@
 class Solution {
-    //tabulation
+    //space optimisation
     public int uniquePaths(int m, int n) {
-        int dp[][] = new int[m][n];
+        int prev[] = new int[n];// prev row
 
         for(int i=0; i<m; i++){
+            int temp[] = new int[n];//current row
             for(int j=0; j<n; j++){
                 if(i==0 && j==0){
-                    dp[0][0] = 1;
+                    temp[j] = 1; //current block will be 0
                     continue;
                 }
 
                 int up = 0, left = 0;
-                if(i>0) up = dp[i-1][j];
-                if(j>0) left = dp[i][j-1];
+                if(i>0) up = prev[j];
+                if(j>0) left = temp[j-1];
 
-                dp[i][j] = up + left;
+                temp[j] = up + left;
             }
+
+            prev = temp;
         }
 
-        return dp[m-1][n-1];
+        return prev[n-1];
     }
 
     // public int funct(int i, int j, int dp[][]){
