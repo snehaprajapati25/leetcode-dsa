@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0118-pascals-triangle) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
