@@ -9,7 +9,8 @@ class Solution {
             for(int j=0; j<n; j++){
                 if(i==0 && j==0)cur[j] = grid[i][j];
                 else{
-                    int up = Integer.MAX_VALUE;
+                    int up = Integer.MAX_VALUE; //"this path is NOT possible" If i == 0 || j == 0 → no top or left exists
+
                     if(i>0) up = grid[i][j] + prev[j];
 
                     int left = Integer.MAX_VALUE;
