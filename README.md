@@ -30,6 +30,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0724-find-pivot-index) |
+| [0931-minimum-falling-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
@@ -54,6 +55,7 @@
 | [0213-house-robber-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
+| [0931-minimum-falling-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,4 +159,5 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
