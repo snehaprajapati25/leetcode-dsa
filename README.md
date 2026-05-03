@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0169-majority-element) |
@@ -46,6 +47,7 @@
 | [0064-minimum-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0198-house-robber) |
