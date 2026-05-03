@@ -1,15 +1,15 @@
 class Solution {
-    public int f(List<List<Integer>> triangle, int i, int j, int dp[][]){
-        //at last row 
-        if(i == triangle.size()-1)return triangle.get(i).get(j);
+    // public int f(List<List<Integer>> triangle, int i, int j, int dp[][]){
+    //     //at last row 
+    //     if(i == triangle.size()-1)return triangle.get(i).get(j);
 
-        if(dp[i][j] != -1)return dp[i][j];
+    //     if(dp[i][j] != -1)return dp[i][j];
 
-        int down = triangle.get(i).get(j) + f(triangle, i+1, j, dp);
-        int dg = triangle.get(i).get(j) + f(triangle, i+1, j+1, dp);
+    //     int down = triangle.get(i).get(j) + f(triangle, i+1, j, dp);
+    //     int dg = triangle.get(i).get(j) + f(triangle, i+1, j+1, dp);
 
-        return dp[i][j] = Math.min(down, dg);
-    }
+    //     return dp[i][j] = Math.min(down, dg);
+    // }
 
     public int minimumTotal(List<List<Integer>> triangle) {
         int n = triangle.size();
