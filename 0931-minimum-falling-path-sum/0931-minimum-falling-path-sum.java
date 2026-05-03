@@ -24,32 +24,35 @@ class Solution {
         int n = matrix.length;
         int m = matrix[0].length;
 
-        int dp[][] = new int[n][m];
+        int prev[] = new int[m];
 
         for(int j=0; j<m; j++){
-            dp[0][j] = matrix[0][j];
+            prev[j] = matrix[0][j];
         }
 
         for(int i=1; i<n; i++){
+            int cur[] = new int[m];
             for(int j=0; j<m; j++){
-                int up = matrix[i][j] + dp[i-1][j];
+                int up = matrix[i][j] + prev[j];
                 
                 int ld = matrix[i][j];
-                if(j-1>=0) ld += dp[i-1][j-1];
+                if(j-1>=0) ld += prev[j-1];
                 else ld += 1e8;
 
                 int rd = matrix[i][j];
-                if(j+1<m) rd+= dp[i-1][j+1];
+                if(j+1<m) rd+= prev[j+1];
                 else rd += 1e8;
 
-                dp[i][j] = Math.min(up, Math.min(ld, rd));
+                cur[j] = Math.min(up, Math.min(ld, rd));
             }
+
+            prev = cur;
         }
 
         int min = Integer.MAX_VALUE;
 
         for (int j = 0; j < m; j++) {
-            min = Math.min(min,dp[n-1][j]); //since we can get answer on last row from any col
+            min = Math.min(min, prev[j]); //since we can get answer on last row from any col
         }
         return min;
     }
