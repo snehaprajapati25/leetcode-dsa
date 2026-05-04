@@ -15,6 +15,7 @@
 | [0063-unique-paths-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0120-triangle) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0704-binary-search) |
 ## Linked List
 |  |
