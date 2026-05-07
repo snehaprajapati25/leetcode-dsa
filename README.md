@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0704-binary-search) |
@@ -68,6 +69,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0217-contains-duplicate) |
+| [0380-insert-delete-getrandom-o1](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
@@ -120,6 +122,7 @@
 | [0062-unique-paths](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0070-climbing-stairs) |
+| [0380-insert-delete-getrandom-o1](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -169,4 +172,12 @@
 | [0064-minimum-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1463-cherry-pickup-ii) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
