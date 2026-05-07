@@ -2,33 +2,17 @@ class Solution {
     public int findMin(int[] arr) {
         int low = 0;
         int high = arr.length-1;
-        int min = Integer.MAX_VALUE;
 
-        while(low<=high){
+        while(low < high){
             int mid = (low + high) / 2;
 
-            //duplicates
-            if(arr[low] == arr[mid] && arr[mid] == arr[high]){
-                min = Math.min(min, arr[mid]);
-                low++;
-                high--;
-                continue;
-            }
-
-            //the whole range is strictly sorted
-            if(arr[low] < arr[high]){
-                min = Math.min(min, arr[low]);
-                break;
-            }
-
-            if(arr[low] <= arr[mid]){
-                min = Math.min(arr[low], min);
+            // because the minimum element is in the right half of the array
+            if(arr[mid] > arr[high]){
                 low = mid+1;
+            }else if(arr[mid] < arr[high]) {//because the minimum element is in the left half of the array
+                high = mid;
             }else{
-                min = Math.min(arr[mid], min);
-                high = mid-1;
+                high--; //deal wth duplicatees
             }
-        }
-        return min;
-    }
-}
+        }return arr[low];
+}}
