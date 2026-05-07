@@ -15,6 +15,7 @@ class Solution {
                 continue;
             }
 
+            //the whole range is strictly sorted
             if(arr[low] < arr[high]){
                 min = Math.min(min, arr[low]);
                 break;
