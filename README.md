@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -109,6 +110,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -141,6 +143,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
@@ -186,4 +189,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
