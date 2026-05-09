@@ -32,6 +32,7 @@
 | [0283-move-zeroes](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0380-insert-delete-getrandom-o1) |
+| [0416-partition-equal-subset-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0704-binary-search) |
@@ -60,6 +61,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
