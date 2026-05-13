@@ -13,10 +13,14 @@ class Solution {
 
     public int minCostClimbingStairs(int[] cost) {
         int dp[] = new int[cost.length];
-        
-        Arrays.fill(dp, -1);
-        
 
-        return Math.min(f(cost.length-1, cost, dp), f(cost.length-2, cost, dp));
+        dp[0] = cost[0];
+        dp[1] = cost[1];
+
+        for(int i=2; i<cost.length; i++){
+            dp[i] = cost[i] + Math.min(dp[i -1], dp[i -2]);
+        }
+
+        return Math.min(dp[cost.length-1], dp[cost.length-2]); // asked to reach TOP OF FLOOR i.e 10, 15, 20, TOP
     }
 }
