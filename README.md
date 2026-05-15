@@ -42,6 +42,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1463-cherry-pickup-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1463-cherry-pickup-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
+| [2742-painting-the-walls](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2742-painting-the-walls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1463-cherry-pickup-ii) |
+| [2742-painting-the-walls](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2742-painting-the-walls) |
 ## Hash Table
 |  |
 | ------- |
