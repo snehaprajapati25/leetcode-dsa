@@ -5,14 +5,15 @@ class Solution {
 
         for(String i: events){
             if(counter == 10){
-                return new int[]{score, counter};
+               break;
             }
-            if(i.equals("0") || i.equals("1") || i.equals("2") || i.equals("3") || i.equals("4") || i.equals("6")){
-                score+=Integer.parseInt(i);
-            }else if (i.equals("W")){
+            
+            if (i.equals("W")){
                 counter++;
             }else if(i.equals("WD") || i.equals("NB")){
                 score++;
+            }else{
+                score += Integer.parseInt(i);
             }
         }
 
