@@ -11,17 +11,21 @@ class Solution {
     // }
 
     public int rob(int[] nums) {
-        int dp[] = new int[nums.length];
+        // int dp[] = new int[nums.length];
 
-        dp[0] = nums[0];
+        int prev = nums[0];
+        int prev2 = 0;
 
         for(int idx=1; idx<nums.length; idx++){
-            int notTake = 0 + dp[idx-1];
+            int notTake = 0 + prev;
             int take =  nums[idx];
-            if(idx > 1) take += dp[idx-2]; 
+            if(idx > 1) take += prev2; 
 
-            dp[idx] = Math.max(take, notTake);
+            int cur = Math.max(take, notTake);
+
+            prev2 = prev;
+            prev = cur; 
         }
-        return dp[nums.length-1];
+        return prev;
     }
 }
