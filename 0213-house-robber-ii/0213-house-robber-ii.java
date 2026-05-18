@@ -1,21 +1,23 @@
 class Solution {
-    public int f(int[] nums, int si, int ei){
-        int dp[] = new int[nums.length];
-        dp[si] = nums[si];
+    public int adjacentHouses(int si, int ei, int nums[]){
+        int prev = nums[si];
+        int prev2 = 0;
 
-        for(int i=si+1; i<=ei; i++){
-            int notRob = dp[i-1];
-            int rob  = nums[i];
+        for(int i=si+1; i<ei; i++){
+            int notTake = 0 + prev;
+            int take = nums[i] + prev2;  
 
-            if(i> si+1) rob += dp[i-2];
+            int cur = Math.max(take, notTake);
 
-            dp[i] =Math.max(rob, notRob); 
+            prev2 = prev;
+            prev = cur;
         }
 
-        return dp[ei];
+        return prev;
     }
     public int rob(int[] nums) {
-        if(nums.length == 1)return nums[0];
-        return Math.max(f(nums, 0, nums.length-2),f(nums, 1, nums.length-1));
+        int n = nums.length;
+        if(n == 1)return nums[0];
+        return Math.max(adjacentHouses(0, n-1, nums), adjacentHouses(1, n, nums));
     }
 }
