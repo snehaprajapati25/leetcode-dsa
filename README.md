@@ -42,6 +42,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1463-cherry-pickup-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1463-cherry-pickup-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
+| [2498-frog-jump-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2498-frog-jump-ii) |
 | [2742-painting-the-walls](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2742-painting-the-walls) |
 ## Divide and Conquer
 |  |
@@ -108,6 +109,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2498-frog-jump-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2498-frog-jump-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0704-binary-search) |
+| [2498-frog-jump-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2498-frog-jump-ii) |
 ## Linked List
 |  |
 | ------- |
