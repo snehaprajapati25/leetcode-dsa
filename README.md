@@ -44,6 +44,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
 | [2498-frog-jump-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2498-frog-jump-ii) |
 | [2742-painting-the-walls](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2742-painting-the-walls) |
+| [3921-score-validator](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/3921-score-validator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0014-longest-common-prefix](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [3921-score-validator](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/3921-score-validator) |
 ## Stack
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [3921-score-validator](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/3921-score-validator) |
 ## Bit Manipulation
 |  |
 | ------- |
