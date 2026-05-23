@@ -34,6 +34,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0494-target-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0724-find-pivot-index) |
@@ -66,6 +67,7 @@
 | [0198-house-robber](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0746-min-cost-climbing-stairs) |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
