@@ -76,6 +76,7 @@
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1463-cherry-pickup-ii) |
 | [2742-painting-the-walls](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2742-painting-the-walls) |
 ## Hash Table
@@ -103,6 +104,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
+| [1143-longest-common-subsequence](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [3921-score-validator](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/3921-score-validator) |
 ## Stack
