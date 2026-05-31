@@ -72,6 +72,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0746-min-cost-climbing-stairs) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0014-longest-common-prefix) |
+| [0516-longest-palindromic-subsequence](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
