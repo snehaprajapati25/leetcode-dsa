@@ -78,6 +78,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1463-cherry-pickup-ii) |
 | [2742-painting-the-walls](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2742-painting-the-walls) |
 ## Hash Table
@@ -107,6 +108,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [3921-score-validator](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/3921-score-validator) |
 ## Stack
