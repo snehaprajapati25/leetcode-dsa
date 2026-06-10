@@ -57,6 +57,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0063-unique-paths-ii) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0516-longest-palindromic-subsequence) |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
