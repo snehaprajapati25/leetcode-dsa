@@ -42,6 +42,7 @@
 | [0518-coin-change-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
@@ -85,6 +86,7 @@
 | [0518-coin-change-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/1092-shortest-common-supersequence) |
@@ -139,6 +141,7 @@
 | [0044-wildcard-matching](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2498-frog-jump-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/2498-frog-jump-ii) |
 ## Binary Search
