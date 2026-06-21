@@ -43,6 +43,7 @@
 | [0494-target-sum](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0724-find-pivot-index) |
