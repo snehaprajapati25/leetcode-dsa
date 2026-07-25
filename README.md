@@ -265,4 +265,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/snehaprajapati25/leetcode-dsa/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
